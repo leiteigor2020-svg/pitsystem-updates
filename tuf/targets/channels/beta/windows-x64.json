@@ -1,0 +1,13 @@
+{
+  "version": "1.16.2",
+  "platform": "windows-x64",
+  "channel": "beta",
+  "mandatory": false,
+  "notes": [
+    "Piloto de atualização remota 1.16.2: identificação visual em Sobre e suporte. Sem alterações nas funcionalidades comerciais ou na estrutura do banco de dados."
+  ],
+  "target": "packages/ParafusoGestor-1.16.2-windows-x64.zip",
+  "sha256": "8f2dbafdd6544d4d774b729b657048fdb99311f27e19df321d4cd96ce59098d7",
+  "size": 113437023,
+  "database_version": 7
+}
