@@ -1,15 +1,15 @@
 {
-  "version": "1.16.4",
+  "version": "1.16.5",
   "platform": "windows-x64",
   "channel": "beta",
   "mandatory": false,
   "notes": [
-    "Axyl: novo Painel com indicadores e gráficos locais, busca global e menu recolhível.",
-    "Estoque e Produtos com tabelas virtualizadas, detalhes laterais, filtros e edição por abas.",
-    "Caixa com resumo lateral em telas maiores e finalização fixa em notebooks; temas claro/escuro, ajustes em abas e exportações de relatórios."
+    "Corrige a inclusão dos recursos visuais da Axyl no UpdateHelper do Windows, evitando falha ao abrir a janela de atualização.",
+    "Centraliza os caminhos de tema, logos e fonte para execução instalada e adiciona verificação dos recursos do atualizador no build.",
+    "Preserva dados existentes, configurações e o mecanismo de atualização remota."
   ],
-  "target": "packages/ParafusoGestor-1.16.4-windows-x64.zip",
-  "sha256": "f608499bd4e7c7d9d3152d181cd0582cdd4e085d666dd8083238f53bf5c4ea74",
-  "size": 114474548,
+  "target": "packages/ParafusoGestor-1.16.5-windows-x64.zip",
+  "sha256": "f5dcbf8c6d75b4852ba1e8a03fe6038c1b5fefedd930b4887ae3abd70cf791e1",
+  "size": 116100074,
   "database_version": 7
 }
