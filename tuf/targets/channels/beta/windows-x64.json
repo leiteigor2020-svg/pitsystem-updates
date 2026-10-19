@@ -1,14 +1,15 @@
 {
-  "version": "1.16.3",
+  "version": "1.16.4",
   "platform": "windows-x64",
   "channel": "beta",
   "mandatory": false,
   "notes": [
-    "Axyl: identidade verde e grafite, logos e ícones oficiais, intro nativa e ajustes visuais nas telas existentes.",
-    "Rolagem centralizada para tabelas e páginas, preservando dados, funcionalidades e compatibilidade de atualização."
+    "Axyl: novo Painel com indicadores e gráficos locais, busca global e menu recolhível.",
+    "Estoque e Produtos com tabelas virtualizadas, detalhes laterais, filtros e edição por abas.",
+    "Caixa com resumo lateral em telas maiores e finalização fixa em notebooks; temas claro/escuro, ajustes em abas e exportações de relatórios."
   ],
-  "target": "packages/ParafusoGestor-1.16.3-windows-x64.zip",
-  "sha256": "9af2bc2773a2cd5f52b291634de083c347bcaaeffcf2285957053bf1b3da0681",
-  "size": 114373207,
+  "target": "packages/ParafusoGestor-1.16.4-windows-x64.zip",
+  "sha256": "f608499bd4e7c7d9d3152d181cd0582cdd4e085d666dd8083238f53bf5c4ea74",
+  "size": 114474548,
   "database_version": 7
 }
