@@ -1,15 +1,16 @@
 {
-  "version": "1.16.8",
+  "version": "1.16.9",
   "platform": "windows-x64",
   "channel": "beta",
   "mandatory": false,
   "notes": [
-    "Frente de caixa: o último produto lido sempre aparece na lista \"Itens da venda\", inclusive em telas pequenas.",
-    "A barra de rolagem da lista fica sempre visível.",
+    "Frente de caixa: a lista \"Itens da venda\" mostra mais produtos ao mesmo tempo e não fica mais cortada em telas menores.",
+    "A setinha do teclado e a barra de rolagem mostram todos os produtos da venda.",
+    "O último produto lido sempre aparece na lista.",
     "Preserva dados existentes, configurações e o mecanismo de atualização remota."
   ],
-  "target": "packages/ParafusoGestor-1.16.8-windows-x64.zip",
-  "sha256": "940c30b7541e092586de56d8b4e62585d3423973b0bd58ed4dfb5ab96fc94128",
-  "size": 116161104,
+  "target": "packages/ParafusoGestor-1.16.9-windows-x64.zip",
+  "sha256": "3424b79ce98c8430bca459778bd42ef4cf1056a65a3accf5fc7172552ec2acff",
+  "size": 116162369,
   "database_version": 7
 }
