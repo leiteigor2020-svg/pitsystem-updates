@@ -35,5 +35,7 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
+      - name: Wait for the artifact to be listed
+        run: sleep 60
       - uses: actions/deploy-pages@v4
         id: deployment
