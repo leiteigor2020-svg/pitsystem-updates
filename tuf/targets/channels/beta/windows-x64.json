@@ -1,19 +1,15 @@
 {
-  "version": "1.16.7",
+  "version": "1.16.8",
   "platform": "windows-x64",
   "channel": "beta",
   "mandatory": false,
   "notes": [
-    "Backup automático diário em segundo plano, sem interromper as vendas, com cópia opcional em pendrive ou pasta na nuvem.",
-    "Limpeza automática dos backups antigos, sempre mantendo os mais recentes; use Empresa e ajustes → Backup → Ver limpeza prevista para conferir antes.",
-    "As vendas continuam liberadas mesmo sem internet ou se uma atualização não puder ser instalada.",
-    "Avisos discretos no rodapé: \"Backup atrasado\" e \"Atualização pendente\", sem abrir janelas durante o atendimento.",
-    "As verificações de atualização não interrompem a venda em andamento nem a leitura do código de barras.",
-    "A janela abre maximizada e lembra tamanho e posição; F11 alterna a tela cheia (no Mac, também Ctrl+Cmd+F). Os gráficos do Painel se desenham com uma animação curta, que segue a opção de animação em Empresa e ajustes → Aparência.",
+    "Frente de caixa: o último produto lido sempre aparece na lista \"Itens da venda\", inclusive em telas pequenas.",
+    "A barra de rolagem da lista fica sempre visível.",
     "Preserva dados existentes, configurações e o mecanismo de atualização remota."
   ],
-  "target": "packages/ParafusoGestor-1.16.7-windows-x64.zip",
-  "sha256": "1a9b0dc94238b8a5c78a1d032e19924089638f7b8535517cee385f76cfc87585",
-  "size": 116282503,
+  "target": "packages/ParafusoGestor-1.16.8-windows-x64.zip",
+  "sha256": "940c30b7541e092586de56d8b4e62585d3423973b0bd58ed4dfb5ab96fc94128",
+  "size": 116161104,
   "database_version": 7
 }
